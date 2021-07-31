@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Le site dont vous êtes le héros</title>
+		<meta charset="uft-8">
+		<link rel="stylesheet" href="mise-en-page.css">
+
+	</head>
+
+	<body>
+		<h1>L'auteur</h1>
+		<p>c'est moi</p>
+		<img src="moi.jpg" alt="une photo de moi en chemise">
+		<p><a href="page-acceuil.html">retour à la page d'acceuil</a><p>
+		<hr>
+		<p>vous pouvez me contecter par mail à l'adresse <a href="mailto:cedric.ambrosino@laposte.net">cedric.ambrosino@laposte.net</a></p>
+	</body>
+
+</html>

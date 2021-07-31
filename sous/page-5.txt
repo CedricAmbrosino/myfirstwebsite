@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Le site dont vous êtes le héros</title>
+		<meta charset="uft-8">
+		<link rel="stylesheet" href="../mise-en-page.css">
+	</head>
+
+	<body>
+		<h1>les colons bis</h1>
+		<p>arrivant à la fontaine, vous êtes le témoin d'un curieux manège, des colons vont et vienne en continue <br>
+		avec des sceau remplit d'eau.Vous leur demandait ce q'uil font. il vous réponde que n'ayant pas les moyen d'acheter un tonneau,<br>
+		il font des réserve dans des sceau. Vous leur proposer de leur en achetez un en échange d'un repas. Il accepte, et viennent avec vous. </p>
+		<p> Ainsi fini notre histoire :<a href="..\auteur.html">les crédits</a></p>
+		
+		 
+		
+	</body>
+
+</html>

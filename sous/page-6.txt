@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Le site dont vous êtes le héros</title>
+		<meta charset="uft-8">
+
+	</head>
+
+	<body>
+		<h1>commerce</h1>
+		<p>L'étalage était installé sous un hauvant en toile. Derrière se tenait assis Geluc <br>
+		adossé à une maison fait de branchage et de terre.Vos peau vous revienne 25 écus assez pour tenir mois à venir.<br>
+		Vous pouvez acheter un sceau,un tonneau, un marteau, une pelle, une gourde, et un sac de clou pour 1 écu par unité.</p>
+		<p> vous pouvez allez en :</p>
+		<ol>
+			<li>Si vous vous rendez au centre du village, allez en <a href="page-4.html">4</a></li>
+			<li>Si vous souhaitez aller voir les nouveaux arrivant allez en <a href="page-3.html">3</a></li>
+		</ol>
+		 
+		
+	</body>
+
+</html>

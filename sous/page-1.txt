@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Le site dont vous êtes le héros</title>
+		<meta charset="uft-8">
+		<link rel="stylesheet" href="../mise-en-page.css">
+	</head>
+
+	<body>
+		<h1>Le village</h1>
+		<p>Un homme a cheval avance lentement dans un paysage où de vastes forêts dont le feuillage tirant sur les couleurs de l'automne,<br>
+		 était enclavé dans des vallées dominées par de hautes montagnes.<br>
+		 Il se rendait dans le village de Jujurieu où était installés des colons.<br>
+		 Le village était constitué de manière éparse de maison en bois,en terre,en toile ou peau.<br>
+		 Une carravant d'un trentaine de colon était arrivé ces derniers jours et s'afférait à se construire<br>
+		 des habitations de fortune.</p>
+		<p> vous pouvez allez en :</p>
+		<ol>
+			<li>Si vous souhaitez allez vendre vos peau, allez en <a href="page-6.html">6</a></li>
+			<li>Si vous souhaitez allez voir les nouveaux arrivant allez en <a href="page-3.html">3</a></li>
+		</ol>
+		 
+		
+	</body>
+
+</html>

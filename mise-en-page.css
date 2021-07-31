@@ -1,0 +1,18 @@
+body{
+	background-color: orange;
+	text-align: center;
+}
+
+p{	
+	font-size:16px;
+}
+
+h1{
+	color:white;
+	font-size:30px;
+}
+
+p,h1,ol{
+	font-weight:bold;
+}
+
